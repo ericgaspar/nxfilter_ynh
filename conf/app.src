@@ -1,7 +1,7 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=http://pub.nxfilter.org/nxfilter-4.6.0.7.zip
+SOURCE_SUM=bd5a20addcfd963ccaceecfc2e11aa5fffb02d957beb6fabddf172917888bbda
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
+SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=true
 SOURCE_FILENAME=
 SOURCE_EXTRACT=true
